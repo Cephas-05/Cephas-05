@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cephas_Princely
-- 👀 I’m interested in Web Scraping, Django and Data analyzing
+- 👀 I’m interested in Web Scraping, Django and Web Development
 - 🌱 I’m currently learning Django and Web Scraping
 - 📫 You can reach me using my gmail - cephasprincely5@gmail.com
 - 📫 Insta_id - cephas_princely
